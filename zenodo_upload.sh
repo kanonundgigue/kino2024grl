@@ -1,0 +1,1 @@
+/home/kanon/local/zenodo-upload/zenodo_upload.sh
