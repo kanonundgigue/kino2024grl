@@ -1,7 +1,8 @@
 import csv
 
 # 定義された変数と実験
-variables_to_draw = ["grsst", "gricr", "precwtot", "precw_d18O", "u250", "T2", "prcp_d18O", "sstgrad", "sens", "evap", "prcp", "vflow", "vprecwtot","vprecw"]
+#variables_to_draw = ["grsst", "gricr", "precwtot", "precw_d18O", "u250", "T2", "prcp_d18O", "sstgrad", "sens", "evap", "prcp", "vflow", "vprecwtot","vprecw"]
+variables_to_draw = ["precwtot", "precw_d18O", "u250", "T2", "prcp_d18O", "sens", "evap", "prcp", "vflow", "vprecwtot","vprecw"]
 experiments = {
     "PI": "PI.AMIP_t42.20230831",
     "LGM_Mw/Gice": "LGM.miroc_glomapice_anomtopo_t42.20230831",
@@ -16,6 +17,7 @@ file_paths = []
 # experimentsとvariables_to_drawの組み合わせからパスを生成
 for exp_key, exp_path in experiments.items():
     for var in variables_to_draw:
+        print(var)
         if var not in ["vprecw"]:
             file_paths.append(f"model_outputs/{exp_path}/clm/{var}")
 
