@@ -1,6 +1,7 @@
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/precwtot
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/precw_d18O
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/u250
+/data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/slp
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/T2
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/prcp_d18O
 /data44/kanon/kino2023grl/PI.AMIP_t42.20230831/clm/sens
@@ -11,6 +12,7 @@
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/precwtot
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/precw_d18O
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/u250
+/data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/slp
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/T2
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/prcp_d18O
 /data44/kanon/kino2023grl/LGM.miroc_glomapice_anomtopo_t42.20230831/clm/sens
@@ -21,6 +23,7 @@
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/precwtot
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/precw_d18O
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/u250
+/data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/slp
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/T2
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/prcp_d18O
 /data44/kanon/kino2023grl/LGM.miroc_anomtopo_t42.20230831/clm/sens
@@ -31,6 +34,7 @@
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/precwtot
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/precw_d18O
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/u250
+/data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/slp
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/T2
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/prcp_d18O
 /data44/kanon/kino2023grl/LGM.glomap_anomtopo_t42.20230831/clm/sens

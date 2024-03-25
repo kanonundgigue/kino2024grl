@@ -2,7 +2,7 @@ import os
 import subprocess
 
 def main():
-    zenodo_repo_id = "10461149"
+    zenodo_repo_id = "10867605"
     filename = "file_paths.txt"
     experiments = ["PI.AMIP_t42.20230831", "LGM.miroc_glomapice_anomtopo_t42.20230831", 
                    "LGM.miroc_anomtopo_t42.20230831", "LGM.glomap_anomtopo_t42.20230831"]

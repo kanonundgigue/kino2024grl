@@ -1,14 +1,15 @@
 # Scripts and Data Summary
 - Source codes for analyses used in Kino et al. (2024, GRL) [https://doi.org/xxx](https://doi.org/xxx)
-- Data (in gtool and csv formats) are available from [Kino et al. (2024, Zenodo)](https://zenodo.org/doi/10.5281/zenodo.7582875)
+- Data (in gtool and csv formats) are available from [Kino et al. (2024, Zenodo)](https://doi.org/10.5281/zenodo.10867605)
+- The python environment has been build by using [this package](https://github.com/kanonundgigue/virtual_env.git).
 
 ## Jupyter Notebooks
 - `Ant_proxy_model_comparison.ipynb`
     - Figures 1i–j and S4.
 - `Ant_zonalmean.ipynb`
-    - Figures 1a–h, S6, and S7.
+    - Figure S5.
 - `Calc_Eady_growth_rate.ipynb`
-    - Calculation for Figure S8 based on ESMValTool [(Righi et al., 2020, GMD)](https://gmd.copernicus.org/articles/13/1179/2020/). 
+    - Calculation for Figure S7 based on ESMValTool [(Righi et al., 2020, GMD)](https://gmd.copernicus.org/articles/13/1179/2020/). 
 - `Filtering_3D.ipynb`
     - Calculation for the analysis described in Section 2.4 based on [Newman et al. (2012, JC)](https://journals.ametsoc.org/view/journals/clim/25/21/jcli-d-11-00665.1.xml).
 - `global_model-data_comparison_LGM_G.ipynb`
@@ -18,7 +19,7 @@
 - `global_seasurface_LGM-PI.ipynb`
     - Figure S1.
 - `Spatial_maps.ipynb`
-    - Figures 2, S5, S8, and S9.
+    - Figures 1a–h, S6–S13.
 
 ## Miscellaneous
 ### Additional Data
