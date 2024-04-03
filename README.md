@@ -1,4 +1,4 @@
-# Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum” (Version 1.0). Github. Retrieved from https://github.com/kanonundgigue/kino2024grl
+# Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum”
 
 ## Scripts and Data Summary
 - Source codes for analyses used in Kino et al. (2024, GRL) [https://doi.org/xxx](https://doi.org/xxx)
