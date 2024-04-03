@@ -1,9 +1,11 @@
-# Scripts and Data Summary
+# Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum” (Version 1.0). Github. Retrieved from https://github.com/kanonundgigue/kino2024grl
+
+## Scripts and Data Summary
 - Source codes for analyses used in Kino et al. (2024, GRL) [https://doi.org/xxx](https://doi.org/xxx)
 - Data (in gtool and csv formats) are available from [Kino et al. (2024, Zenodo)](https://doi.org/10.5281/zenodo.10867605)
 - The python environment has been build by using [this package](https://github.com/kanonundgigue/virtual_env.git).
 
-## Jupyter Notebooks
+### Jupyter Notebooks
 - `Ant_proxy_model_comparison.ipynb`
     - Figures 1i–j and S4.
 - `Ant_zonalmean.ipynb`
@@ -21,8 +23,8 @@
 - `Spatial_maps.ipynb`
     - Figures 1a–h, S6–S13.
 
-## Miscellaneous
-### Additional Data
+### Miscellaneous
+#### Additional Data
 - `grlndfglac1d.t42`: Symbolic link to the LGM topography file.
 - `Antarctica_LGM_Proxies.csv`: Ice core data described in Section 2.3. (Available from [Kino et al. (2024, Zenodo)](https://zenodo.org/doi/10.5281/zenodo.7582875))
 - `model_outputs`: Directory for model data (Contents are available from [Kino et al. (2024, Zenodo)](https://zenodo.org/doi/10.5281/zenodo.7582875))
@@ -36,3 +38,6 @@
 - `execute_upload.py`: Python script to execute `zenodo_upload.sh`.
 - `get_path.py`: Python script to locate necessary files for executing the Jupyter notebooks.
 - `file_paths.txt`: Output file from `get_path.py`.
+
+## How to cite
+Kino, K. (2024). Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum” (Version 1.0). [Software] https://github.com/kanonundgigue/kino2024grl
