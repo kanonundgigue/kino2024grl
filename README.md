@@ -1,8 +1,8 @@
 # Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum”
 
 ## Scripts and Data Summary
-- Source codes for analyses used in Kino et al. (2024, GRL) [https://doi.org/xxx](https://doi.org/xxx)
-- Data (in gtool and csv formats) are available from [Kino et al. (2024, Zenodo)](https://doi.org/10.5281/zenodo.10867605)
+- This package includes the source codes for analyses used in Kino et al. (2024, GRL) [https://doi.org/xxx](https://doi.org/xxx)
+- Data (in gtool and csv formats) are available in [Kino et al. (2024, Zenodo)](https://doi.org/10.5281/zenodo.10867605)
 - The python environment has been build by using [this package](https://github.com/kanonundgigue/virtual_env.git).
 
 ### Jupyter Notebooks
@@ -40,4 +40,5 @@
 - `file_paths.txt`: Output file from `get_path.py`.
 
 ## How to cite
-Kino, K. (2024). Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum” (Version 1.0). [Software] https://github.com/kanonundgigue/kino2024grl
+Kino, K., Cauquoin, A., Okazaki, A., Taikan, O., & Yoshimura, K. (2024). Supporting program for “Synoptic Moisture Intrusion Provided Heavy Isotope Precipitations in Inland Antarctica during the Last Glacial Maximum” (Version 1.0). [Software] https://github.com/kanonundgigue/kino2024grl
+
